@@ -1,4 +1,4 @@
-# [Split-Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
+# --- [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) ---
 
 Language: ![Powershell Static Badge](https://img.shields.io/badge/Powershell-012456?style=for-the-badge&logo=powershell)
 
