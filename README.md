@@ -1,2 +1,2 @@
-# advent-of-code
+# Codewars
 Memor-X's Public Codewars Solutions
