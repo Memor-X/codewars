@@ -11,6 +11,9 @@
 . "$($PSScriptRoot)\lib\LocalLib.ps1"
 #=======================================
 
+# Global Varible Setting
+$global:logSetting.showDebug = $true
+
 Write-Start
 
 $strings = @(

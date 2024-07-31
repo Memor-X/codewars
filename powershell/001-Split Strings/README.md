@@ -17,5 +17,5 @@ Code Coverage Req: 90%
 
 | File | No. of Tests | Code Coverage |
 | :--- | :---: | ---: |
-| LocalLib.ps1 | 2 | <span style="color:green">100%</span> |
-| **Total** | 2 | <span style="color:green">100%</span> |
+| LocalLib.ps1 | 9 | <span style="color:green">100%</span> |
+| **Total** | 9 | <span style="color:green">100%</span> |
