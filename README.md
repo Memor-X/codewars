@@ -1,4 +1,4 @@
-# Codewars
+# Codewars (ARCHIVED)
 Memor-X's Public Codewars Solutions
 
 ## Kata
